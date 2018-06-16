@@ -16,7 +16,8 @@
   },
   "source": {
     "git": "https://github.com/Diiaablo95/indy-sdk.git",
-    "tag": "1.4.1"
+    "tag": "1.4.1",
+    "branch": "ds"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
