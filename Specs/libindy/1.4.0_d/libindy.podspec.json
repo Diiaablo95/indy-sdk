@@ -1,0 +1,24 @@
+{
+  "name": "libindy",
+  "version": "1.4.0_d",
+  "summary": "Summary TODO.",
+  "description": "Description TODO.",
+  "homepage": "TODO",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Daniel Hardman": "daniel.hardman@evernym.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/Diiaablo95/indy-sdk.git",
+    "tag": "1.4.0_d"
+  },
+  "source_files": "*.h",
+  "vendored_libraries": "*.a",
+  "requires_arc": false
+}
