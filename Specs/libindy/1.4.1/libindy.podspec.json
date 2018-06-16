@@ -1,6 +1,6 @@
 {
   "name": "libindy",
-  "version": "1.4.0_d",
+  "version": "1.4.1",
   "summary": "Summary TODO.",
   "description": "Description TODO.",
   "homepage": "TODO",
@@ -16,7 +16,7 @@
   },
   "source": {
     "git": "https://github.com/Diiaablo95/indy-sdk.git",
-    "tag": "1.4.0_d"
+    "tag": "1.4.1"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
